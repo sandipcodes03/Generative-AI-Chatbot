@@ -7,9 +7,9 @@ Developed a **highly specialized AI chatbot** tailored for medical websites, ach
 
 ---
 ## 📜 Certificate
-
+<font size="1">Image Courtesy:https://media.geeksforgeeks.org/auth-certificates/1751999400/8eda3c6b7b80d6aed8eedb29819a8ae0.png</font>
 You can view my **completion/achievement certificate** here:
-[📄 View Certificate](https://media.geeksforgeeks.org/auth-certificates/1751999400/8eda3c6b7b80d6aed8eedb29819a8ae0.png)
+[View Certificate](https://media.geeksforgeeks.org/auth-certificates/1751999400/8eda3c6b7b80d6aed8eedb29819a8ae0.png)
 
 ---
 
